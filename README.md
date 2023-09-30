@@ -6,3 +6,7 @@ AutoClick doesn't do that. With AutoClick, you can change what you'll need. I ma
 To download it, head on over to "Releases" on the right-side of the website. Click "AutoClick by wjp0369", then click "AutoClick.by.wjp0369.zip". Wait for it to download, extract the .zip file to a folder, read the README.txt, and use. 
 Enjoy!
   - wjp0369
+
+
+https://www.virustotal.com/gui/file/3124696accadcbea9f28351e8358f27fe99b927c330a18a7ab0e31a5ccda8936?nocache=1
+No viruses!
