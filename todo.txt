@@ -1,3 +1,4 @@
 1. Speed setting (in ms)
 2. Anti-bot detection? (Add slight randomness to the intervals)
 3. Right/left click option (Give user the option of automating a left or right click)
+4. Single/Double/Triple click option?
