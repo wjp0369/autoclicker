@@ -8,5 +8,5 @@ Enjoy!
   - wjp0369
 
 
-https://www.virustotal.com/gui/file/3124696accadcbea9f28351e8358f27fe99b927c330a18a7ab0e31a5ccda8936?nocache=1
-No viruses!
+https://www.virustotal.com/gui/file/fa303f04b8ae58c0efcb205892d6442a6d7b3f4e0977308c9a51688a264f035b?nocache=1
+2/72
