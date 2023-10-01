@@ -1,0 +1,2 @@
+1. Speed setting (in ms)
+2. Anti-bot detection? (Add slight randomness to the intervals)
